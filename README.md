@@ -1,4 +1,4 @@
-# Annotation Service
+# Annotation Store
 
 This repo is used as a data store for Label Studio.
 
